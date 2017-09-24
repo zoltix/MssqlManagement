@@ -1,0 +1,2 @@
+# MssqlManagement
+Sql server script
