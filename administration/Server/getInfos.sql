@@ -1,4 +1,4 @@
-/* get info v1*/
+/* get info v1 */
 SELECT  
    CONNECTIONPROPERTY('net_transport') AS net_transport,
    CONNECTIONPROPERTY('protocol_type') AS protocol_type,
